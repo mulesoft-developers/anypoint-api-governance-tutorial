@@ -8,51 +8,40 @@
 <h4 align="center">
 	<a href="#overview">Overview</a> |
 	<a href="#installation-instructions">Install Me</a> |
-	<a href="#faqs">FAQs</a> |
 	<a href="#contributing">Contribute</a>
 </h4>
 	
 <h3 align="center">
-	This is the tutorial short description<br><br>
+	Learn how you can check for API conformance using Anypoint API Governance during your API design stage<br><br>
 </h3>
 
 ## Tutorial and Video
 
-For a step by step tutorial navigate to the MuleSoft developer website [here](https://www.youtube.com/watch?v=5Xd5B_twt9w)
-
-For a video of the tutorial go [here](https://www.youtube.com/watch?v=5Xd5B_twt9w).
+For a step by step tutorial navigate to the MuleSoft developer website [here](replace url)
 
 ## Overview
 
 Detailed Description
 
-> This sample application is designed to run on MuleSoft's Anypoint Platform.
+In this tutorial, we will focus on applying governance rulesets at API design stage. By doing so, you can ensure that your APIs meet conformance from the beginning of the development lifecycle. 
+
+In this tutorial, you’ll learn how to: 
+- Add rulesets to your API project
+- Update your API project to meet conformance
+- Publish API specification to Exchange
+
 
 ## Installation Instructions
 
 Install instructions
 
-1. Set up your environment.
+1. Log into Anypoint Platform
 
 <a href="https://anypoint.mulesoft.com/login/signup" ><img width="250" src="/images/start-platform.png"><a>
-	
-<a href="https://www.mulesoft.com/lp/dl/studio" ><img width="250" src="/images/download-studio.png"><a>
-	
-<a href="https://developer.mulesoft.com/learn/dataweave" ><img width="250" src="/images/open-dataweave.png"><a>
 
-2. Clone this repository.
+2. Download **governance-tutorial-API.yaml** file
 
-3. In Anypoint Studio, select `File` > `Import` > `Anypoint Studio` > `Anypoint Studio project from File System` and click Next.
-
-4. Select the cloned repository in the Project Root and make sure to **uncheck** the `Copy project into workspace` option.
-
-5. Click on Finish.
-
-## FAQs
-
-#### How do I ?
-
-Answer.
+3. Get started! 
 
 ## Contributing
 
@@ -61,10 +50,6 @@ Contributions are what make the MuleSoft community such an amazing place. Any co
 See [contributing.md](/contributing.md) for the MuleSoft Developer principles.
 
 ## Utilities and Dependencies
-
-#### Dependencies
-
--   xxx
 
 #### Code formatting
 
